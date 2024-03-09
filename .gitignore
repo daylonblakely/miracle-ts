@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Compiled files
+dist/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+### rest client for testing
+
+### sign in as user
+POST http://localhost:5000/reverse
+Content-Type: application/json
+
+{
+    "input": "Yreka Bakery"
+} 
